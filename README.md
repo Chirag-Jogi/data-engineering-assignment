@@ -18,8 +18,8 @@ Based on the provided requirements and standard financial data practices, the fo
 ## How to Run & Verify
 
 Prerequisites
-- Python 3.x
-- Pandas library (`pip install pandas`)
+Python 3.x
+Pandas library (`pip install pandas`)
 
 1. Initial State: The repository includes a pre-populated output/ directory for immediate review of the 10 ticker files.
 
@@ -37,3 +37,4 @@ Prerequisites
 1. Python 3.x
 
 2. Pandas Library   
+
