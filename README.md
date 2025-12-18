@@ -15,11 +15,11 @@ Based on the provided requirements and standard financial data practices, the fo
 3. **Monthly Volume:** Volume is calculated as the cumulative sum of all trading volume within the calendar month.
 4. **Timeframe:** The dataset is assumed to cover a continuous 24-month period, resulting in exactly 24 rows per ticker.
 
+## Prerequisites
+- **Python 3.x**
+- **Pandas library** (`pip install pandas`)
+  
 ## How to Run & Verify
-
-Prerequisites
-Python 3.x
-Pandas library (`pip install pandas`)
 
 1. Initial State: The repository includes a pre-populated output/ directory for immediate review of the 10 ticker files.
 
@@ -37,4 +37,5 @@ Pandas library (`pip install pandas`)
 1. Python 3.x
 
 2. Pandas Library   
+
 
